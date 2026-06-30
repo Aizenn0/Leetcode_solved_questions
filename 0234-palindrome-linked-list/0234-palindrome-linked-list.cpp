@@ -17,13 +17,12 @@ public:
             a.push_back(temp->val);
             temp=temp->next;
         }
-        int x=0,y=a.size()-1;
-        while(x<y){
-            if(a[x]!=a[y]){
+        int n=a.size();
+        for(int i=0; i<n/2; i++){
+            if(a[i]!=a[n-i-1]){
                 return false;
                 break;
             }
-            x++; y--;
         }
         return true;
     }
