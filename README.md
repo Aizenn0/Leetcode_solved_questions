@@ -25,6 +25,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0137-single-number-ii](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0260-single-number-iii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## String
@@ -46,5 +47,6 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0260-single-number-iii) |
 <!---LeetCode Topics End-->
