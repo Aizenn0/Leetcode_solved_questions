@@ -24,6 +24,7 @@
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## String
 |  |
@@ -37,4 +38,8 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0234-palindrome-linked-list) |
+## Binary Search
+|  |
+| ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 <!---LeetCode Topics End-->
