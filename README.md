@@ -42,6 +42,7 @@
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
@@ -69,4 +70,16 @@
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0525-contiguous-array) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
