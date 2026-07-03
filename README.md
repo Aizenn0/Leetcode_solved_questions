@@ -6,6 +6,7 @@
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0525-contiguous-array](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0525-contiguous-array) |
 ## Linked List
 |  |
 | ------- |
@@ -32,6 +33,7 @@
 | [0137-single-number-ii](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0283-move-zeroes) |
+| [0525-contiguous-array](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0525-contiguous-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## String
 |  |
@@ -63,4 +65,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0002-add-two-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [0525-contiguous-array](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0525-contiguous-array) |
 <!---LeetCode Topics End-->
