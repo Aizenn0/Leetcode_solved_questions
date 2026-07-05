@@ -31,6 +31,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0016-3sum-closest) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0055-jump-game](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0055-jump-game) |
 | [0137-single-number-ii](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0283-move-zeroes) |
@@ -91,11 +92,13 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0860-lemonade-change) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0055-jump-game) |
 | [0678-valid-parenthesis-string](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
