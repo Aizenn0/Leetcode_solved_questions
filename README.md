@@ -36,6 +36,7 @@
 | [0283-move-zeroes](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0455-assign-cookies) |
 | [0525-contiguous-array](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0525-contiguous-array) |
+| [0860-lemonade-change](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0860-lemonade-change) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## String
 |  |
@@ -92,6 +93,7 @@
 | ------- |
 | [0455-assign-cookies](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0678-valid-parenthesis-string) |
+| [0860-lemonade-change](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0860-lemonade-change) |
 ## Dynamic Programming
 |  |
 | ------- |
