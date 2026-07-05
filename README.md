@@ -47,6 +47,7 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0678-valid-parenthesis-string) |
+| [1573-number-of-ways-to-split-a-string](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/1573-number-of-ways-to-split-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Stack
 |  |
@@ -81,6 +82,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0002-add-two-numbers) |
 | [0172-factorial-trailing-zeroes](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0172-factorial-trailing-zeroes) |
+| [1573-number-of-ways-to-split-a-string](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/1573-number-of-ways-to-split-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
