@@ -40,12 +40,14 @@
 ## String
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0678-valid-parenthesis-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Stack
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0234-palindrome-linked-list) |
+| [0678-valid-parenthesis-string](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0678-valid-parenthesis-string) |
 ## Recursion
 |  |
 | ------- |
@@ -89,4 +91,9 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0678-valid-parenthesis-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
