@@ -7,6 +7,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0142-linked-list-cycle-ii](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0523-continuous-subarray-sum](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0525-contiguous-array) |
 ## Linked List
 |  |
@@ -41,6 +42,7 @@
 | [0283-move-zeroes](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0283-move-zeroes) |
 | [0435-non-overlapping-intervals](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0455-assign-cookies) |
+| [0523-continuous-subarray-sum](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0525-contiguous-array) |
 | [0860-lemonade-change](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0860-lemonade-change) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -84,11 +86,13 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0002-add-two-numbers) |
 | [0172-factorial-trailing-zeroes](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0172-factorial-trailing-zeroes) |
+| [0523-continuous-subarray-sum](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0523-continuous-subarray-sum) |
 | [1573-number-of-ways-to-split-a-string](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/1573-number-of-ways-to-split-a-string) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0525-contiguous-array) |
 ## Tree
 |  |
