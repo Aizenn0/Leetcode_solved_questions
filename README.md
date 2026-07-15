@@ -83,6 +83,7 @@
 | [0002-add-two-numbers](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0002-add-two-numbers) |
 | [0172-factorial-trailing-zeroes](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0172-factorial-trailing-zeroes) |
 | [1573-number-of-ways-to-split-a-string](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/1573-number-of-ways-to-split-a-string) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -122,4 +123,8 @@
 | [0055-jump-game](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0678-valid-parenthesis-string) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
