@@ -28,6 +28,7 @@
 | [0234-palindrome-linked-list](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0455-assign-cookies) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Array
 |  |
 | ------- |
@@ -46,6 +47,7 @@
 | [0525-contiguous-array](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0525-contiguous-array) |
 | [0860-lemonade-change](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0860-lemonade-change) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -81,6 +83,7 @@
 | [0016-3sum-closest](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0016-3sum-closest) |
 | [0435-non-overlapping-intervals](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0455-assign-cookies) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
 | ------- |
@@ -89,6 +92,7 @@
 | [0523-continuous-subarray-sum](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0523-continuous-subarray-sum) |
 | [1573-number-of-ways-to-split-a-string](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/1573-number-of-ways-to-split-a-string) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -133,8 +137,13 @@
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Backtracking
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Simulation
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
