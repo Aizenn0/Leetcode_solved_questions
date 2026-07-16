@@ -11,18 +11,41 @@
 class Solution {
 public:
     ListNode* sortList(ListNode* head) {
-        vector<int>a;
-        ListNode* temp= head;
-        while(temp!=NULL){
-            a.push_back(temp->val);
-            temp=temp->next;
+        if(head==nullptr || head->next==nullptr)return head;
+        ListNode* temp= NULL;
+        ListNode* slow=head, *fast=head;
+        while(fast && fast->next){
+            temp=slow;
+            slow=slow->next;
+            fast=fast->next->next;
         }
-        temp=head;
-        sort(a.begin(),a.end());
-        for(int i=0; i<a.size(); i++){
-            temp->val=a[i];
-            temp=temp->next;
+        temp->next=NULL;
+        ListNode* l1= sortList(head);
+        ListNode* l2= sortList(slow);
+        return mergelist(l1,l2);
+    }
+    ListNode* mergelist(ListNode *l1, ListNode *l2){
+        ListNode *ptr= new ListNode(0);
+        ListNode *curr= ptr;
+        while(l1 && l2){
+            if(l1->val <= l2->val){
+                curr->next=l1;
+                l1=l1->next;
+            }
+            else{
+                curr->next=l2;
+                l2=l2->next;
+            }
+            curr=curr->next;
         }
-        return head;
+        if(l1){
+            curr->next=l1;
+            l1=l1->next;
+        }
+        if(l2){
+            curr->next=l2;
+            l2=l2->next;
+        }
+        return ptr->next;
     }
 };
