@@ -30,6 +30,7 @@
 | [0234-palindrome-linked-list](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0455-assign-cookies) |
+| [0633-sum-of-square-numbers](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0633-sum-of-square-numbers) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Array
 |  |
@@ -74,6 +75,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0633-sum-of-square-numbers](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0633-sum-of-square-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -93,6 +95,7 @@
 | [0002-add-two-numbers](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0002-add-two-numbers) |
 | [0172-factorial-trailing-zeroes](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0172-factorial-trailing-zeroes) |
 | [0523-continuous-subarray-sum](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0523-continuous-subarray-sum) |
+| [0633-sum-of-square-numbers](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0633-sum-of-square-numbers) |
 | [1573-number-of-ways-to-split-a-string](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/1573-number-of-ways-to-split-a-string) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
