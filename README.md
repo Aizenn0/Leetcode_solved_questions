@@ -49,6 +49,7 @@
 | [0523-continuous-subarray-sum](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0525-contiguous-array) |
 | [0860-lemonade-change](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0860-lemonade-change) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
@@ -88,6 +89,7 @@
 | [0148-sort-list](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0148-sort-list) |
 | [0435-non-overlapping-intervals](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0455-assign-cookies) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
@@ -160,4 +162,8 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0148-sort-list) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
