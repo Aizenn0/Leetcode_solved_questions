@@ -59,6 +59,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0678-valid-parenthesis-string) |
 | [1573-number-of-ways-to-split-a-string](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/1573-number-of-ways-to-split-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Stack
 |  |
 | ------- |
@@ -90,6 +91,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0455-assign-cookies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
@@ -166,4 +168,8 @@
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
