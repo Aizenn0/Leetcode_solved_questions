@@ -7,6 +7,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0142-linked-list-cycle-ii](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0525-contiguous-array) |
 ## Linked List
@@ -45,6 +46,7 @@
 | [0260-single-number-iii](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0283-move-zeroes) |
 | [0435-non-overlapping-intervals](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0435-non-overlapping-intervals) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0455-assign-cookies) |
 | [0523-continuous-subarray-sum](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0525-contiguous-array) |
@@ -89,6 +91,7 @@
 | [0016-3sum-closest](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0016-3sum-closest) |
 | [0148-sort-list](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0148-sort-list) |
 | [0435-non-overlapping-intervals](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0435-non-overlapping-intervals) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0455-assign-cookies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
