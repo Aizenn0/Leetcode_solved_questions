@@ -58,6 +58,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0678-valid-parenthesis-string) |
 | [1573-number-of-ways-to-split-a-string](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/1573-number-of-ways-to-split-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -143,6 +144,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0070-climbing-stairs) |
@@ -157,6 +159,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0022-generate-parentheses) |
 ## Simulation
 |  |
 | ------- |
