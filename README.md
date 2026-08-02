@@ -38,6 +38,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0016-3sum-closest) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0039-combination-sum](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0057-insert-interval) |
@@ -160,6 +161,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0039-combination-sum) |
 ## Simulation
 |  |
 | ------- |
