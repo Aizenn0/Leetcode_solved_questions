@@ -44,6 +44,7 @@
 | [0055-jump-game](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0090-subsets-ii) |
 | [0135-candy](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0137-single-number-ii) |
@@ -65,6 +66,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0079-word-search) |
 | [0678-valid-parenthesis-string](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0678-valid-parenthesis-string) |
 | [1573-number-of-ways-to-split-a-string](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/1573-number-of-ways-to-split-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -131,6 +133,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -173,6 +176,7 @@
 | [0039-combination-sum](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0216-combination-sum-iii) |
 ## Simulation
@@ -203,4 +207,8 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0877-stone-game) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
