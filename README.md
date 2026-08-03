@@ -59,6 +59,7 @@
 | [0525-contiguous-array](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0525-contiguous-array) |
 | [0860-lemonade-change](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -119,6 +120,7 @@
 | [0523-continuous-subarray-sum](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/1406-stone-game-iii) |
 | [1573-number-of-ways-to-split-a-string](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/1573-number-of-ways-to-split-a-string) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -167,6 +169,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/1406-stone-game-iii) |
 ## Number Theory
 |  |
 | ------- |
@@ -212,8 +215,17 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/1406-stone-game-iii) |
 ## Matrix
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0079-word-search) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
