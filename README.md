@@ -67,6 +67,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0079-word-search) |
+| [0282-expression-add-operators](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0282-expression-add-operators) |
 | [0678-valid-parenthesis-string](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0678-valid-parenthesis-string) |
 | [1573-number-of-ways-to-split-a-string](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/1573-number-of-ways-to-split-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -113,6 +114,7 @@
 | [0002-add-two-numbers](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0172-factorial-trailing-zeroes) |
+| [0282-expression-add-operators](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0282-expression-add-operators) |
 | [0523-continuous-subarray-sum](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0877-stone-game) |
@@ -179,6 +181,7 @@
 | [0079-word-search](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/Aizenn0/Leetcode_solved_questions/tree/master/0282-expression-add-operators) |
 ## Simulation
 |  |
 | ------- |
